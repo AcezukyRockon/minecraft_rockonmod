@@ -4,4 +4,4 @@
 4. It will start building and give a .jar file at build/libs
 5. Copy .jar file to %APPDATA%/Roaming/.minecraft/mods
 6. Open launcher, choose game Forge version 1.16.5 and launch game
-7. In game menu, go to "Mod", check if there is rockonmod.
+7. In game menu, go to "Mod", check if there is rock-on mod.
