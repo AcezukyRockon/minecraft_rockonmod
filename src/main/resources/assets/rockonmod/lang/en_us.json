@@ -1,5 +1,7 @@
 {
   "item.rockonmod.amethyst": "Amethyst",
-  "item.rockonmod.rockonfood": "RockonFood",
+  "item.rockonmod.rice": "Rice",
+  "item.rockonmod.alleffect": "All Effect Potion",
+  "item.rockonmod.firstaid": "First Aid",
   "itemGroup.rockonmod": "rockonmod"
 }
