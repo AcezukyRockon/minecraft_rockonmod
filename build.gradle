@@ -12,8 +12,8 @@ apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 
-version = '1.16.5'
-group = 'com.yourname.rockonmod' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+version = '1.16.5-1.0'
+group = 'com.acezuky.rockonmod' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = 'rockonmod'
 
 java.toolchain.languageVersion = JavaLanguageVersion.of(8) // Mojang ships Java 8 to end users, so your mod should target Java 8.
@@ -143,7 +143,7 @@ dependencies {
 jar {
     manifest {
         attributes([
-            "Specification-Title": "rockonmod",
+            "Specification-Title": "examplemod",
             "Specification-Vendor": "examplemodsareus",
             "Specification-Version": "1", // We are version 1 of ourselves
             "Implementation-Title": project.name,

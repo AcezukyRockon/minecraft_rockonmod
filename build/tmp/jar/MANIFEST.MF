@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Specification-Title: rockonmod
-Specification-Vendor: examplemodsareus
-Specification-Version: 1
-Implementation-Title: minecraft_rockonmod
-Implementation-Version: 1.16.5
-Implementation-Vendor: examplemodsareus
-Implementation-Timestamp: 2022-08-09T15:55:27+0700
-
