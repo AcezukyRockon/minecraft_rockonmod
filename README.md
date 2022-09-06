@@ -28,7 +28,7 @@ Credit to [Kaupenjoe](https://www.youtube.com/playlist?list=PLKGarocXCE1EMxeBvqs
 7. In game menu, go to "Mod", check if there is rock-on mod.
 8. Open world with Creative gamemode, open Inventory and search for rockonmod tab (2nd tab in creative), new items will show up.
 
-**Updates:**
+**Updates:**\
 2022, September 06: Fixed duplicated Dig Speedup Effect, should give true "How Did We Get Here" achievement.
 
 *Thank you for visiting!*
