@@ -25,7 +25,7 @@ public class AllEffect extends Item {
                         .effect(new EffectInstance(Effects.INVISIBILITY,100,1),1)
                         .effect(new EffectInstance(Effects.JUMP,100,1),1)
                         .effect(new EffectInstance(Effects.LEVITATION,100,1),1)
-                        .effect(new EffectInstance(Effects.DIG_SPEED,100,1),1)
+                        .effect(new EffectInstance(Effects.DIG_SLOWDOWN,100,1),1)
                         .effect(new EffectInstance(Effects.CONFUSION,100,1),1)
                         .effect(new EffectInstance(Effects.NIGHT_VISION,100,1),1)
                         .effect(new EffectInstance(Effects.POISON,100,1),1)
